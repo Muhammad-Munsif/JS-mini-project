@@ -1,44 +1,44 @@
 body {
-    text-align: center;
+  text-align: center;
 }
 
 .btn {
-    height: 200px;
-    width: 200px;
-    border-radius: 20%;
-    border: 10px solid black;
-    margin: 2.5rem;
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2.5rem;
 }
 
 .btn-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .red {
-    background-color: rgb(198, 79, 79);
+  background-color: rgb(198, 79, 79);
 }
 
 .yellow {
-    background-color: yellowgreen;
+  background-color: yellowgreen;
 }
 
 .grey {
-    background-color: grey;
+  background-color: grey;
 }
 
 .purple {
-    background-color: rgb(167, 78, 167);
+  background-color: rgb(167, 78, 167);
 }
 
 .flashBtn {
-    background-color: white;
+  background-color: white;
 }
 
 .userFlash {
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
 
 h3 {
-    font-size: 30px;
+  font-size: 30px;
 }
